@@ -1,3 +1,15 @@
+# 💫 Hi 👋, I'm Aaryan Shah
+**A GRC enthusiast || Programmer || Photographer**
+
+Email Me 👉 ✉️ **aaryanhshah9@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** PlanWise - Student Productivity Automation Tool
+- 🌱 **I’m currently learning:** Cybersecurity - GRC
+- 💬 **Ask me about:** Collaboration, Tech Support, cybersecurity and photography
+- 📫 **How to reach me:** aaryanhshah9@gmail.com
+- 😄 **Pronouns:** He/Him
+- ⚡ **Status:** Living between shutter clicks and security scripts
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aaryans.pic)
@@ -11,5 +23,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AS-pyt&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
