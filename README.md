@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **aaryanhshah9@gmail.com** For Collaboration/Project or Any
 - 📫 **How to reach me:** aaryanhshah9@gmail.com
 - 😄 **Pronouns:** He/Him
 - ⚡ **Status:** Living between shutter clicks and security scripts
-- 🌐 **Website:** https://cyberside.netlify.app/
+- 🌐 **Website:** [CyberSide](https://cyberside.netlify.app/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aaryans.pic)
