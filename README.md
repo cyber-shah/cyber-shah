@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Aaryan Shah
 **A GRC enthusiast || Programmer || Photographer**
 
-Email Me 👉 ✉️ **aaryanhshah9@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **aaryanhshah9@gmail.com** For Collaboration/Project or Anything Else. 😊
 
 - 🔭 **I’m currently working on:** PlanWise - Student Productivity Automation Tool
 - 🌱 **I’m currently learning:** Cybersecurity - GRC and International Business
