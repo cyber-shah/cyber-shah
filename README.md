@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Aaryan
+# Hi 👋, I'm Aaryan!
 **A GRC enthusiast || Programmer || Photographer/Videographer**
 
 Email Me 👉 ✉️ **aaryanhshah9@gmail.com** For Collaboration/Project or Anything Else. 😊
