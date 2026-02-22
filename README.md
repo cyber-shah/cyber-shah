@@ -5,7 +5,7 @@ Email Me 👉 ✉️ **aaryanhshah9@gmail.com** For Collaboration/Project or Any
 
 - 🔭 **I’m currently working on:** PlanWise - Student Productivity Automation Tool
 - 🌱 **I’m currently learning:** Cybersecurity - GRC and International Business
-- 💬 **Ask me about:** Collaboration, Tech Support, cybersecurity and photography
+- 💬 **Ask me about:** Collaboration, tech, philosophy, cybersecurity and photography
 - 📫 **How to reach me:** aaryanhshah9@gmail.com
 - 😄 **Pronouns:** He/Him
 - ⚡ **Status:** Living between shutter clicks and security scripts
